@@ -1,0 +1,32 @@
+fastapi
+uvicorn
+opencv-python
+python-dotenv
+torch
+transformers
+mistralai
+pyttsx3
+requests
+Pillow
+python-multipart 
+langchain_groq
+#groq 
+openai==1.58.1
+# Frontend dependencies
+kivy
+kivymd            # Optional if you want Material Design components.
+pvporcupine
+pyaudio
+#requests
+#python-dotenv
+huggingface_hub
+pillow
+#pvporcupine
+# Note: Make sure you have the appropriate versions that are compatible with your platform.
+#kivy
+#pvporcupine
+#pyaudio
+#requests
+#python-dotenv
+opencv-python
+numpy
