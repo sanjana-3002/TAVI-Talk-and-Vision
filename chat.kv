@@ -1,0 +1,16 @@
+<ChatScreen>:
+    orientation: 'vertical'
+    ScrollView:
+        id: scroll_view
+        do_scroll_x: False
+        do_scroll_y: True
+        BoxLayout:
+            id: chat_box
+            orientation: 'vertical'
+            size_hint_y: None
+            height: self.minimum_height
+    Label:
+        id: mic_indicator
+        text: ""
+        size_hint_y: None
+        height: "40dp"
